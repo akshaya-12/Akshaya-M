@@ -1,0 +1,3 @@
+create table spd(sid Number(5),sname Varchar2(20),saddr Varchar2(20),sdob Date,sphone NUmber(10));
+insert into spd(sid,sname,saddr,sdob,sphone)values(1,'Akshaya','chennai','12-Nov-1998',9385738763);
+desc table spd;
